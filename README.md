@@ -17,7 +17,7 @@ Unlike standard code repositories, the notebooks here are designed as **research
 
 | ID | Project Name | Algorithm / Concepts | Libraries | Status |
 |:---|:---|:---|:---|:---|
-| **01** | [**Iris Species Classification**](./01_Iris_Classification.ipynb) | k-Nearest Neighbors (k-NN), Supervised Learning, Euclidean Distance | `scikit-learn`, `pandas`, `matplotlib` | ✅ Completed |
+| **01** | [**Iris Species Classification**](./ML00_classifying_iris_species.ipynb) | k-Nearest Neighbors (k-NN), Supervised Learning, Euclidean Distance | `scikit-learn`, `pandas`, `matplotlib` | ✅ Completed |
 | **02** | *Coming Soon...* | *Linear Regression / Optimization* | ... | 🚧 In Progress |
 
 ## 🛠️ Tech Stack & Tools
